@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Rai 1">
+ <channel id="Rai 1">
     <display-name lang="it">Rai 1</display-name>
     <icon src="https://guidatv.sky.it/logo/899rai1hd_Light_Fit.png?checksum=a6521fec-8ea7-4c06-a333-0bd5a8a9cb44?tr=n-logo_80" />
     <url>http://www.guidatv.sky.it</url>
