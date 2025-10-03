@@ -1,0 +1,51 @@
+import requests
+import gzip
+import io
+import xml.etree.ElementTree as ET
+
+# 🔹 I tuoi 5 EPG
+urls = [
+    "http://epg-guide.com/wltv.gz",
+    "http://epgitalia.tv/gzip",
+    "https://rebrand.ly/TopLive",
+    "https://github.com/matthiusman/i.mjh.nz/raw/master/PlutoTv/it.xml.gz",
+    "https://github.com/matthiusman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz"
+]
+
+def fetch_xml(url):
+    print(f"Scarico {url} ...")
+    r = requests.get(url, timeout=60)
+    r.raise_for_status()
+
+    # Se è un file compresso (.gz) → decomprimo
+    if url.endswith(".gz") or url.endswith("/gzip"):
+        with gzip.GzipFile(fileobj=io.BytesIO(r.content)) as f:
+            data = f.read()
+    else:
+        data = r.content
+
+    return ET.ElementTree(ET.fromstring(data))
+
+# Carico il primo come base
+tree = fetch_xml(urls[0])
+root = tree.getroot()
+
+# Aggiungo gli altri
+for url in urls[1:]:
+    t = fetch_xml(url)
+    r = t.getroot()
+
+    # Aggiungo canali senza duplicati
+    for ch in r.findall("channel"):
+        if not root.find(f"./channel[@id='{ch.attrib['id']}']"):
+            root.append(ch)
+
+    # Aggiungo programmi
+    for pr in r.findall("programme"):
+        root.append(pr)
+
+# Salvo il file unito
+with open("epg_unito.xml", "wb") as f:
+    tree.write(f, encoding="utf-8", xml_declaration=True)
+
+print("✅ File 'epg_unito.xml' creato con successo!")
