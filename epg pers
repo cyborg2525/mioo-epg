@@ -11042,9 +11042,7 @@
       <value>NA</value>
     </rating>
   </programme>
-
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="www.matthuisman.nz" generated-ts="1759490285">
-  <channel id="68adb5853efb41cd97ce413d">
+ <channel id="68adb5853efb41cd97ce413d">
     <display-name>I Puffi</display-name>
     <icon src="https://images.pluto.tv/channels/68adb5853efb41cd97ce413d/colorLogoPNG_1759447100016.png"/>
   </channel>
