@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="www.matthuisman.nz" generated-ts="1759501100">
   <channel id="68adb5853efb41cd97ce413d">
-    <display-name>I Puffi</display-name>
-    <icon src="https://images.pluto.tv/channels/68adb5853efb41cd97ce413d/colorLogoPNG_1759447100016.png"/>
+    <display-name>Pluto TV Serie</display-name>
+    <icon src="https://images.pluto.tv/channels/60b9ff2722bfa400072676ef/colorLogoPNG.png"/>
   </channel>
   <channel id="688244971027d56590287356">
     <display-name>Pluto TV Cinema Family</display-name>
@@ -23,4 +23,5 @@
     <display-name>Pluto TV Mostri e Vampiri</display-name>
     <icon src="https://images.pluto.tv/channels/6633551323e24f00084744aa/colorLogoPNG-1757422171108.png"/>
 </tv>
+
 
