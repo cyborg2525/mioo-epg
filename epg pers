@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="www.matthuisman.nz" generated-ts="1759490100">
+</tv>
   <channel id="IT2600002F6">
     <display-name>Film Top - Rakuten TV</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600002F6_20250415T022347SQUARE.png"/>
@@ -11042,7 +11042,7 @@
       <value>NA</value>
     </rating>
   </programme>
- <channel id="68adb5853efb41cd97ce413d">
+  <channel id="68adb5853efb41cd97ce413d">
     <display-name>I Puffi</display-name>
     <icon src="https://images.pluto.tv/channels/68adb5853efb41cd97ce413d/colorLogoPNG_1759447100016.png"/>
   </channel>
