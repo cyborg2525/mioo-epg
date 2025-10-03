@@ -1,3 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?><tv generator-info-name="[EPGMaker] v.1.140.9390 by CrAcK75" generator-info-url="http://www.epg-guide.com/" generator-info-email="info@epg-guide.com" generator-info-creation="EPG Created on 03/10/2025 08:30:02 with [EPGMaker] v.1.140.9390 Copyright by CrAcK75"><channel id="Pluto16AnniEIncinta.it"><display-name lang="it">Pluto16AnniEIncinta.it</display-name><display-name lang="it">Pluto - 16 Anni E Incinta</display-name><icon src="http://epg-guide.com/icn/icons/pluto16annieincinta.png" </tv>
-
-
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="www.matthuisman.nz" generated-ts="1759501100">
+  <channel id="68adb5853efb41cd97ce413d">
+    <display-name>I Puffi</display-name>
+    <icon src="https://images.pluto.tv/channels/68adb5853efb41cd97ce413d/colorLogoPNG_1759447100016.png"/>
+  </channel>
+  <channel id="688244971027d56590287356">
+    <display-name>Pluto TV Cinema Family</display-name>
+    <icon src="https://images.pluto.tv/channels/688244971027d56590287356/colorLogoPNG_1758087871167.png"/>
+  </channel>
+  <channel id="688244e00a154253b39f3e44">
+    <display-name>Pluto TV Christmas Family</display-name>
+    <icon src="https://images.pluto.tv/channels/688244e00a154253b39f3e44/colorLogoPNG_1758127822850.png"/>
+  </channel>
+  <channel id="61c09e3ac210ed0007606620">
+    <display-name>Pluto TV Horror</display-name>
+    <icon src="https://images.pluto.tv/channels/61c09e3ac210ed0007606620/colorLogoPNG.png"/>
+  </channel>
+  <channel id="62e8d3c2c2db99000787b786">
+    <display-name>Pluto TV Halloween</display-name>
+    <icon src="https://images.pluto.tv/channels/62e8d3c2c2db99000787b786/colorLogoPNG_1751971574499.png"/>
+  </channel>
+  <channel id="6633551323e24f00084744aa">
+    <display-name>Pluto TV Mostri e Vampiri</display-name>
+    <icon src="https://images.pluto.tv/channels/6633551323e24f00084744aa/colorLogoPNG-1757422171108.png"/>
