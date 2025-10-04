@@ -1,24 +1,108 @@
-<settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <filename>..\..\output\miooo.xml</filename>
-  <mode />
-  <postprocess grab="y" run="n">rex</postprocess>
-  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71</user-agent>
-  <logging>on</logging>
-  <retry channel-delay="0" index-delay="0" show-delay="0" time-out="5">4</retry>
-  <proxy />
-  <timespan>0</timespan>
-  <update>f</update>
-  <skip>12,0</skip>
-  <channel update="i" site="guidatv.org" site_id="5" xmltv_id="Canale 5">Canale 5</channel>
-  <channel update="i" site="guidatv.org" site_id="26" xmltv_id="Cielo">Cielo</channel>
-  <channel update="i" site="guidatv.org" site_id="34" xmltv_id="Cine 34">Cine 34</channel>
-  <channel update="i" site="guidatv.org" site_id="1" xmltv_id="Rai 1">Rai 1</channel>
-  <channel update="i" site="guidatv.org" site_id="2" xmltv_id="Rai 2">Rai 2</channel>
-  <channel update="i" site="guidatv.org" site_id="3" xmltv_id="Rai 3">Rai 3</channel>
-  <channel update="i" site="guidatv.org" site_id="21" xmltv_id="Rai 4">Rai 4</channel>
-  <channel update="i" site="guidatv.org" site_id="23" xmltv_id="Rai 5">Rai 5</channel>
-  <channel update="i" site="guidatv.org" site_id="42" xmltv_id="Rai Gulp">Rai Gulp</channel>
-  <channel update="i" site="guidatv.org" site_id="24" xmltv_id="Rai Movie">Rai Movie</channel>
-  <channel update="i" site="guidatv.org" site_id="48" xmltv_id="Rai News 24">Rai News 24</channel>
-  <channel update="i" site="guidatv.org" site_id="25" xmltv_id="Rai Premium">Rai Premium</channel>
-</settings>
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Rai 1">
+    <display-name lang="it">Rai 1</display-name>
+    <icon src="https://guidatv.sky.it/logo/899rai1hd_Light_Fit.png?checksum=a6521fec-8ea7-4c06-a333-0bd5a8a9cb44?tr=n-logo_80" />
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Rai 1 +24HD">
+    <display-name lang="it">Rai 1 +24HD</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Rai 1 +2HD">
+    <display-name lang="it">Rai 1 +2HD</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Rai 1 HD PIU1">
+    <display-name lang="it">Rai 1 HD PIU1</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Rai 1 HD  +1">
+    <display-name lang="it">Rai 1 HD  +1</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Rai 1 HD Piu1">
+    <display-name lang="it">Rai 1 HD Piu1</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Rai 1 HD +1">
+    <display-name lang="it">Rai 1 HD +1</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Rai 1 +1HD">
+    <display-name lang="it">Rai 1 +1HD</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Rai1HDPiu1">
+    <display-name lang="it">Rai1HDPiu1</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Rai 1 +1 HD">
+    <display-name lang="it">Rai 1 +1 HD</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Rai 1 HD H265">
+    <display-name lang="it">Rai 1 HD H265</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Rai 1 4k">
+    <display-name lang="it">Rai 1 4k</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="RAI 1 HEVC">
+    <display-name lang="it">RAI 1 HEVC</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Rai 1 HD RAW">
+    <display-name lang="it">Rai 1 HD RAW</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Rai 1 Full HD">
+    <display-name lang="it">Rai 1 Full HD</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="IT: RAI 1 HD">
+    <display-name lang="it">IT: RAI 1 HD</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Rai 1 FHD">
+    <display-name lang="it">Rai 1 FHD</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Rai 1 UHD">
+    <display-name lang="it">Rai 1 UHD</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="RAI 1 HD">
+    <display-name lang="it">RAI 1 HD</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Rai 1 HD">
+    <display-name lang="it">Rai 1 HD</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Rai1 HD">
+    <display-name lang="it">Rai1 HD</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="RAI 1">
+    <display-name lang="it">RAI 1</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Rai 1 H265">
+    <display-name lang="it">Rai 1 H265</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="(SD)Rai 1 HD">
+    <display-name lang="it">(SD)Rai 1 HD</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Rai 1  SD">
+    <display-name lang="it">Rai 1  SD</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Rai 1 SD">
+    <display-name lang="it">Rai 1 SD</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+</tv>
