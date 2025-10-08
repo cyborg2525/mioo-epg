@@ -42414,7 +42414,7 @@ Psy	- Gangnam Style</desc>
     <category>Children</category>
     <category>Series</category>
   </programme>
-  <programme channel id="IT2600002F6">
+  <channel id="IT2600002F6">
     <display-name>Film Top - Rakuten TV</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600002F6_20250415T022347SQUARE.png"/>
   </channel>
