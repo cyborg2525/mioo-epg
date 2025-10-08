@@ -42414,46 +42414,6 @@ Psy	- Gangnam Style</desc>
     <category>Children</category>
     <category>Series</category>
   </programme>
-  <programme channel="IT2600002F6" start="20251008133221 +0000" stop="20251008152900 +0000">
-    <title>The Illusionist</title>
-    <desc>Vienna, seconda metà dell'Ottocento. L' acclamato illusionista Eisenheim incanta le platee con i suoi incredibili trucchi. Ha persino catturato l' interesse del Principe Leopoldo e della sua fidanzata Sophia, un tempo legata sentimentalmente allo stesso Eisenheim.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_DEQY451056A_1217283493_0_20250926T034300067Z_47_imageprocessorclient-tvplus-linear-5db7c6bc99-kqq7k.jpeg"/>
-    <rating>
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme channel="IT2600002F6" start="20251008152900 +0000" stop="20251008172114 +0000">
-    <title>The Invitation</title>
-    <desc>Will ed Eden un tempo si amavano. Dopo aver perso tragicamente il loro figlio, Eden è scomparsa prima di ripresentarsi due anni dopo, di punto in bianco, con un nuovo marito.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_DEQY451056A_1223622606_0_20250929T034555658Z_35_imageprocessorclient-tvplus-linear-5db7c6bc99-x889l.jpeg"/>
-    <rating>
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme channel="IT2600002F6" start="20251008172114 +0000" stop="20251008191721 +0000">
-    <title>A score to settle</title>
-    <desc>Frank è un criminale che, colpito da una malattia terminale, viene rilasciato dalla prigione in cui ha scontato molti anni dopo essersi preso la colpa di un crimine che non ha commesso. In libertà, cercherà vendetta contro coloro che gli hanno fatto del male.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_DEQY451056A_1185262503_0_20250911T023602234Z_97_imageprocessorclient-tvplus-linear-5db7c6bc99-rsgsk.jpeg"/>
-    <rating>
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme channel="IT2600002F6" start="20251008191721 +0000" stop="20251008210243 +0000">
-    <title>The 2nd</title>
-    <desc>L'agente segreto Vic Davis (Phillippe) si trova nel mezzo di un attacco terroristico, il cui bersaglio è la figlia di un giudice della Corte Suprema. La banda armata non si fermerà di fronte a niente per i propri scopi.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_DEQY451056A_1056516769_0_20250715T053052735Z_44_imageprocessorclient-tvplus-linear-5db7c6bc99-p9nvg.jpeg"/>
-    <rating>
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme channel="IT2600002F6" start="20251008210243 +0000" stop="20251008230020 +0000">
-    <title>Liberaci dal male</title>
-    <desc>Nam per anni è stato un killer al servizio del governo in alcune operazioni segrete. Dopo la chiusura dell'unità speciale cui faceva parte ha vissuto sotto falsa identità, ma è ora costretto a riemergere dall'ombra per salvare sua figlia, rapita da alcuni trafficanti d'organi thailandesi.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_DEQY451056A_611842176_0_20250131T031803666Z_21_imageprocessorclient-tvplus-linear-7cd5d896cc-w48lf.jpeg"/>
-    <rating>
-      <value>14</value>
-    </rating>
-  </programme>
   <channel id="ITBA33000238E">
     <display-name>Comicità piccante</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000238E_20250326T013229SQUARE.png"/>
@@ -42732,10 +42692,6 @@ Psy	- Gangnam Style</desc>
     <title>El Desprecio</title>
     <desc>Andy Phillips is preparing for her upcoming wedding with her fiancé, Jordan. However, after chatting with her best friend, Andy starts to question if she has what it takes to make a strong and lasting marriage.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQO570425A_1200954041_0_20250918T093753034Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-cnnbq.jpeg"/>
-  </programme>
-  <channel id="IT2600002F6">
-    <display-name>Film Top - Rakuten TV</display-name>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600002F6_20250415T022347SQUARE.png"/>
   </programme>
   <channel id="IT2600004K9">
     <display-name>Romance - Rakuten TV</display-name>
@@ -53274,4 +53230,49 @@ Psy	- Gangnam Style</desc>
       <value>NA</value>
     </rating>
   </programme>
+ <programme channel id="IT2600002F6">
+    <display-name>Film Top - Rakuten TV</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600002F6_20250415T022347SQUARE.png"/>
+  </channel>
+  <programme channel="IT2600002F6" start="20251008133221 +0000" stop="20251008152900 +0000">
+    <title>The Illusionist</title>
+    <desc>Vienna, seconda metà dell'Ottocento. L' acclamato illusionista Eisenheim incanta le platee con i suoi incredibili trucchi. Ha persino catturato l' interesse del Principe Leopoldo e della sua fidanzata Sophia, un tempo legata sentimentalmente allo stesso Eisenheim.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_DEQY451056A_1217283493_0_20250926T034300067Z_47_imageprocessorclient-tvplus-linear-5db7c6bc99-kqq7k.jpeg"/>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme channel="IT2600002F6" start="20251008152900 +0000" stop="20251008172114 +0000">
+    <title>The Invitation</title>
+    <desc>Will ed Eden un tempo si amavano. Dopo aver perso tragicamente il loro figlio, Eden è scomparsa prima di ripresentarsi due anni dopo, di punto in bianco, con un nuovo marito.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_DEQY451056A_1223622606_0_20250929T034555658Z_35_imageprocessorclient-tvplus-linear-5db7c6bc99-x889l.jpeg"/>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme channel="IT2600002F6" start="20251008172114 +0000" stop="20251008191721 +0000">
+    <title>A score to settle</title>
+    <desc>Frank è un criminale che, colpito da una malattia terminale, viene rilasciato dalla prigione in cui ha scontato molti anni dopo essersi preso la colpa di un crimine che non ha commesso. In libertà, cercherà vendetta contro coloro che gli hanno fatto del male.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_DEQY451056A_1185262503_0_20250911T023602234Z_97_imageprocessorclient-tvplus-linear-5db7c6bc99-rsgsk.jpeg"/>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme channel="IT2600002F6" start="20251008191721 +0000" stop="20251008210243 +0000">
+    <title>The 2nd</title>
+    <desc>L'agente segreto Vic Davis (Phillippe) si trova nel mezzo di un attacco terroristico, il cui bersaglio è la figlia di un giudice della Corte Suprema. La banda armata non si fermerà di fronte a niente per i propri scopi.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_DEQY451056A_1056516769_0_20250715T053052735Z_44_imageprocessorclient-tvplus-linear-5db7c6bc99-p9nvg.jpeg"/>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme channel="IT2600002F6" start="20251008210243 +0000" stop="20251008230020 +0000">
+    <title>Liberaci dal male</title>
+    <desc>Nam per anni è stato un killer al servizio del governo in alcune operazioni segrete. Dopo la chiusura dell'unità speciale cui faceva parte ha vissuto sotto falsa identità, ma è ora costretto a riemergere dall'ombra per salvare sua figlia, rapita da alcuni trafficanti d'organi thailandesi.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_DEQY451056A_611842176_0_20250131T031803666Z_21_imageprocessorclient-tvplus-linear-7cd5d896cc-w48lf.jpeg"/>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
 </tv>
+
