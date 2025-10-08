@@ -51722,6 +51722,11 @@ Psy	- Gangnam Style</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQU352135A_704296836_0_20250310T204333974Z_80_imageprocessorclient-tvplus-linear-6fb5b47f79-w2s78.jpeg"/>
     <episode-num system="onscreen">S07E08</episode-num>
   </programme>
+  <channel id="IT2600002F6">
+    <display-name>Film Top - Rakuten TV</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600002F6_20250415T022347SQUARE.png"/>
+  </channel>
+  </programme>
   <channel id="IT2600010E0">
     <display-name>Family - Rakuten TV</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600010E0_20250107T022452SQUARE.png"/>
